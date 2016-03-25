@@ -30,6 +30,13 @@
     NSLog(@"22222222");
     NSLog(@"22222222");
     NSLog(@"22222222");
+    
+    
+    NSLog(@"3333333333");
+    NSLog(@"3333333333");
+    NSLog(@"3333333333");
+    NSLog(@"3333333333");
+    
 }
 
 - (void)didReceiveMemoryWarning {
