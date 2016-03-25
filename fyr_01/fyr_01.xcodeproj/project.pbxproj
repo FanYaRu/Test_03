@@ -15,6 +15,7 @@
 		C20107801CA51CB900A0A056 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C201077F1CA51CB900A0A056 /* Assets.xcassets */; };
 		C20107831CA51CB900A0A056 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C20107811CA51CB900A0A056 /* LaunchScreen.storyboard */; };
 		C201078C1CA51F8900A0A056 /* AViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C201078B1CA51F8900A0A056 /* AViewController.m */; };
+		C201078F1CA51FAD00A0A056 /* BViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C201078E1CA51FAD00A0A056 /* BViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,8 @@
 		C20107841CA51CB900A0A056 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C201078A1CA51F8900A0A056 /* AViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AViewController.h; sourceTree = "<group>"; };
 		C201078B1CA51F8900A0A056 /* AViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AViewController.m; sourceTree = "<group>"; };
+		C201078D1CA51FAD00A0A056 /* BViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BViewController.h; sourceTree = "<group>"; };
+		C201078E1CA51FAD00A0A056 /* BViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +85,8 @@
 				C201077A1CA51CB900A0A056 /* ViewController.m */,
 				C201078A1CA51F8900A0A056 /* AViewController.h */,
 				C201078B1CA51F8900A0A056 /* AViewController.m */,
+				C201078D1CA51FAD00A0A056 /* BViewController.h */,
+				C201078E1CA51FAD00A0A056 /* BViewController.m */,
 				C201077C1CA51CB900A0A056 /* Main.storyboard */,
 				C201077F1CA51CB900A0A056 /* Assets.xcassets */,
 				C20107811CA51CB900A0A056 /* LaunchScreen.storyboard */,
@@ -232,6 +237,7 @@
 				C201078C1CA51F8900A0A056 /* AViewController.m in Sources */,
 				C201077B1CA51CB900A0A056 /* ViewController.m in Sources */,
 				C20107781CA51CB900A0A056 /* AppDelegate.m in Sources */,
+				C201078F1CA51FAD00A0A056 /* BViewController.m in Sources */,
 				C20107751CA51CB900A0A056 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
